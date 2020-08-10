@@ -83,7 +83,6 @@ section {
   width: 1024px;
   margin: 0 auto;
   padding: 30px 70px 20px;
-  /*border: 2px solid white; */
 }
 
 /*** HEADER ***/
@@ -115,13 +114,11 @@ img {
   width: 380px;
   margin: auto;
   text-align: center;
-  /*border: 2px solid orangered; */
 }
 
 .header__title-name {
   width: 900px;
   padding: 50px;
-  /* border: 2px solid orange; */
 }
 
 /*** MAIN ***/
@@ -130,7 +127,6 @@ img {
   display: flex;
   width: 50%;
   margin-left: 350px;
- /* border: 2px solid orangered; */
 }
 
 
@@ -152,7 +148,6 @@ img {
   width: 25%;
   padding: 2px 50px;
   text-align: end;
-  /*border: 2px solid red; */
 }
 
 .topic h2 {
@@ -165,7 +160,6 @@ img {
   padding: 25px;
   line-height: 1.5;
   font-size: 18px;
-  /*border: 2px solid red; */
 }
 
 
